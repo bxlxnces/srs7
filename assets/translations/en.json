@@ -1,0 +1,15 @@
+{
+    "form": "Registration form",
+    "name": "Full Name",
+    "number": "Phone Number",
+    "email": "Email",
+    "password": "Password",
+    "register": "Register",
+    "inform": "User Info",
+    "select": "Please, Select Full Information",
+    "password_must_have_uppercase":"uppercase required",
+    "home":"Home",
+    "search":"Search",
+    "profile":"Profile",
+    "stor":"Story"
+}
